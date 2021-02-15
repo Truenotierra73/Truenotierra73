@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola a todos 👋🏻
+
+Este es mi estado en GitHub:
 
 <!--
 **Truenotierra73/Truenotierra73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
