@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Contribuciones](https://github-readme-stats.vercel.app/api?username=Truenotierra73&show_icons=true&theme=onedark)
-[Lenguajes][(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=onedark)]
+[Contribuciones]:(https://github-readme-stats.vercel.app/api?username=Truenotierra73&show_icons=true&theme=onedark)
+[Lenguajes]:(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=onedark)
 
 | Mis contribuciones | Lenguajes
 | ----------- | -----------
