@@ -10,4 +10,6 @@ A mediados de 2016, a través de una beca de I&D (Investigación y Desarrollo) e
 
 En 2018, finalicé el cursado de la carrera de Ing. en Sistemas de Información y, a principios de 2019, tuve mi primera experiencia profesional por medio de la *PPS (Práctica Profesional Supervisada)* en la empresa **PyMix Soluciones TIC**.
 
+Actualmente trabajo como *desarrollador front-end* en **Banco Hipotecario S.A.** a través de la consultora **Grupo Mercel**.
+
 Hoy sigo aprendiendo y manteniéndome actualizado sobre las tendencias de tecnología a través de posts en sitios web oficiales y/o de la comunidad y viendo vídeos de profesionales IT (ej: Carlos Azaustre, Miguel Ángel Durán, Alan Buscaglia, Brais Moure, Fernando Herrera, Simon Grimm, entre otros.).
