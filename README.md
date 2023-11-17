@@ -1,4 +1,4 @@
-# Hola, mi nombre es Agustín Bollati 👋🏻
+# Hola, soy Agustín Bollati 👋🏻
 
 Soy de Pozo del Molle, Provincia de Córdoba, Argentina.
 
@@ -14,7 +14,11 @@ Hoy sigo aprendiendo y manteniéndome actualizado sobre las tendencias de tecnol
 
 ## Experiencia laboral 💼
 
-Desde mayo de 2022, trabajo como *Desarrollador Front-end* en **Banco Hipotecario S.A.** a través de la consultora **Grupo Mercel**.
+Formo parte del equipo *Evolución & Seguridad* en **Banco Hipotecario S.A.** a través de la consultora **Grupo Mercel**. El equipo está conformado por 9 personas y utilizamos la metodología de trabajo ágil Scrum.
+
+Desde mi ingreso, hasta mayo del 2023, participé en el desarrollo y mantenimiento de la funcionalidad Soft Token tanto en back-end con Java, como en front-end con Angular en homebanking.
+
+Actualmente, ocupo el rol de *Desarrollador Front-end* y estoy a cargo de añadir nuevas funcionalidades, dar soporte y mantenimiento a la web de homebanking.
 
 ### Experiencias anteriores
 
