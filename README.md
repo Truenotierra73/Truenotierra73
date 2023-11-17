@@ -18,7 +18,7 @@ Formo parte del equipo *Evolución & Seguridad* en **Banco Hipotecario S.A.** a 
 
 Desde mi ingreso hasta mayo del 2023, participé en el desarrollo y mantenimiento de la funcionalidad Soft Token tanto en back-end con Java, como en front-end con Angular en homebanking.
 
-Actualmente, ocupo el rol de *Desarrollador Front-end* y estoy a cargo de añadir nuevas funcionalidades, dar soporte y mantenimiento a la web de homebanking.
+Actualmente, solo ocupo el rol de *Analista Desarrollador Front-end* y estoy a cargo de añadir nuevas funcionalidades, dar soporte y mantenimiento a la web de homebanking.
 
 ### Experiencias anteriores
 
