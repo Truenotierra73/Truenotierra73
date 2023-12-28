@@ -1,5 +1,7 @@
 # Hola, soy Agustín Bollati 👋🏻
 
+![https://truenotierra73.github.io/](https://github.com/Truenotierra73/Truenotierra73/blob/main/portada_perfil.png)
+
 Soy de Pozo del Molle, Provincia de Córdoba, Argentina.
 
 Comencé la carrera de *Ingeniería en Sistemas de Información* en la **Universidad Tecnológica Nacional - Facultad Regional Villa María (UTN FRVM)** en 2010.
