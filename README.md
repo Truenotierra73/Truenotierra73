@@ -14,20 +14,17 @@ En 2018, finalicé el cursado de la carrera de Ing. en Sistemas de Información 
 
 Hoy sigo aprendiendo y manteniéndome actualizado sobre las tendencias de tecnología a través de posts en sitios web oficiales y/o de la comunidad y viendo vídeos de profesionales IT (ej: Carlos Azaustre, Miguel Ángel Durán, Alan Buscaglia, Brais Moure, Fernando Herrera, Simon Grimm, entre otros.).
 
-## Experiencia laboral 💼
+## Experiencia laboral actual 💼
 
-Formo parte del equipo *Evolución & Seguridad* en **Banco Hipotecario S.A.** a través de la consultora **Grupo Mercel**. El equipo está conformado por 9 personas y utilizamos la metodología de trabajo ágil Scrum.
-
-Desde mi ingreso hasta mayo del 2023, participé en el desarrollo y mantenimiento de la funcionalidad Soft Token tanto en back-end con Java, como en front-end con Angular en homebanking.
-
-Actualmente, solo ocupo el rol de *Analista Desarrollador Front-end* y estoy a cargo de añadir nuevas funcionalidades, dar soporte y mantenimiento a la web de homebanking.
+*Software Developer* en **Flux IT** desde el 25 marzo de 2024.
 
 ### Experiencias anteriores
 
-- Desarrollador Fullstack en **Innovus Software** (2020 - 2022)
-- Desarrollador Fullstack en **PyMix Soluciones TIC** (2019 - 2020)
+- *Analista Desarrollador* con más foco en desarrollo front-end con Angular en **Banco Hipotecario S.A.** por medio de **Grupo Mercel** (2022 - 2024)
+- *Desarrollador Full Stack* en **Innovus Software** (2020 - 2022)
+- *Desarrollador Full Stack* en **PyMix Soluciones TIC** (2019 - 2020)
 
 ### Experiencias como independiente (freelance)
 
-- Desarrollador Front-end en **PrixO** (2021 - 2022)
-- Desarrollador Front-end en **Forze S.A.S.** (2019 - 2022)
+- *Desarrollador Front-end* en **PrixO** (2021 - 2022)
+- *Desarrollador Front-end* en **Forze S.A.S.** (2019 - 2022)
